@@ -27,7 +27,7 @@ This program has only been tested on Linux.
 Based on the [Quick Start Guide](https://mediadl.musictribe.com/media/PLM/data/docs/P0DNM/QSG_BE_0603-AEW_FLOW-8_WW.pdf) provided by Behringer (page 23).
 
 ### Midi Channels
-| **Channel**                                     | **MIDI Ch.** |
+| **Desk Channel**                                     | **MIDI Channel** |
 |-------------------------------------------------|--------------|
 | Channel 1                                       | 1            |
 | Channel 2                                       | 2            |
@@ -45,7 +45,7 @@ Based on the [Quick Start Guide](https://mediadl.musictribe.com/media/PLM/data/d
 | FX2 Slot Selection                              | 15           |
 | Snapshots - Whole Mixer, FX1/FX2 - Common Ctrl. | 16           |
 
-### Channel Commands
+### Desk Channel Commands
 | **Command** | **Parameter**             | **Min. Value** | **Max. Value** | **Notes**        |
 |-------------|---------------------------|----------------|----------------|------------------|
 | CC 7        | Channel Level (to Main)   | 0              | 127            | -70 to +10dB     |

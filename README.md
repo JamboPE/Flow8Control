@@ -7,6 +7,9 @@ This program has only been tested on Linux but should work in theory on other pl
 
 Uses the python library [MIDIUtil](https://github.com/sourcebox/midiutil) written by sourcebox under the BSD license.
 
+## Dependencies
+- Python 3
+
 ## Installation
 1. Connect to the Behringer Flow 8 desk via USB.
 2. Clone the repo ```git clone https://github.com/JamboPE/Flow8Control.git```
